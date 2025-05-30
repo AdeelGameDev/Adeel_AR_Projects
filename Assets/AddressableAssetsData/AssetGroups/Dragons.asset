@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Dragons
+  m_EditorClassIdentifier: 
+  m_GroupName: Dragons
+  m_GUID: 97e6bb2afe3803740952351435598d35
+  m_SerializeEntries:
+  - m_GUID: 5d9a267e5532f0744a0251bc7d33e815
+    m_Address: DragonUsurperSO
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Dragon1
+    - Dragons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81685e4b904a4514b92a718da51b4265
+    m_Address: DragonTerrorBringerSO
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Dragon2
+    - Dragons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af5b116e955b4c840892d251d269e94c
+    m_Address: DragonNightmareSO
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Dragons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: edc2473ec7bbd934abdf91198b3bb875
+    m_Address: DragonSoulEaterSO
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Dragons
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: aeaf73f5045170748aa41f85a0f7e3a5, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0a5afc95fcb23b543a295061fad3b96f, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c00b1cc458d902f40bcd0e36aeaa937b, type: 3}
+  m_Name: DragonSoulEaterSO
+  m_EditorClassIdentifier: 
+  dragonName: DragonSoulEater
+  dragonObject: {fileID: 130964, guid: c644a2181ac22e740968a7ece97e8f36, type: 3}
+  skins:
+  - {fileID: 2100000, guid: 1b51484aceb3349479b6c084713a5517, type: 2}
+  - {fileID: 2100000, guid: 5fcde950c31077243850f23d14ba9a5a, type: 2}
+  - {fileID: 2100000, guid: 0526c5be35ba93547acf614ed1950a2f, type: 2}
+  - {fileID: 2100000, guid: 483bc84e9c06fb74a978565bf66ff42d, type: 2}

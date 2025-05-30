@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: FaceFilter
+  m_EditorClassIdentifier: 
+  m_GroupName: FaceFilter
+  m_GUID: 52ac6974caabaf2459f9e499cad717e3
+  m_SerializeEntries:
+  - m_GUID: 111348710b0bde04491d01629c7aefb0
+    m_Address: Mask 2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FaceFilter
+    - Mask
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c76c8066e9a86c47893008b95c73cdc
+    m_Address: Mask 7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FaceFilter
+    - Mask
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34e49df9e07852c429ece2125e8531ba
+    m_Address: Cat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accesories
+    - FaceFilter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3df1a6f8e7a138945a4e7150e97cb65d
+    m_Address: Mask 12
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FaceFilter
+    - Mask
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 424add786f3d12b45b033165919fbd89
+    m_Address: RedNose
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accesories
+    - FaceFilter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48ba57b318bc9ee47916ffb6cc756350
+    m_Address: Mask 11
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FaceFilter
+    - Mask
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58ea52e8fb41c124ca2619e4aa538138
+    m_Address: Mask 4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FaceFilter
+    - Mask
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67af3083485a0ef489cb8b5cb0f255fc
+    m_Address: PopFace
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Face
+    - FaceFilter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69b5a372a1746c74183c5f35bb68170a
+    m_Address: Mask 10
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FaceFilter
+    - Mask
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 832c57c941b407243a5544abe34f17f6
+    m_Address: RobotFace
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Face
+    - FaceFilter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8394a4fd930b8cc4a9212e7c4749a7c7
+    m_Address: RealFace
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Face
+    - FaceFilter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bda9dec44a54194eb5edf35b305c8dc
+    m_Address: Mask 8
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FaceFilter
+    - Mask
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8fe17eee67aefdd48bd11319c82ec939
+    m_Address: Mask 1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FaceFilter
+    - Mask
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9bff725575d087c40b67db1de139bed2
+    m_Address: Mask 6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FaceFilter
+    - Mask
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3a0f31629e054d4a8ee1b90f807cba7
+    m_Address: WaveFaceCutout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Face
+    - FaceFilter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc486edaf8f4cc2448196a2cad4b9cd7
+    m_Address: Mask 9
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FaceFilter
+    - Mask
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d297d69ef1a606b49aea7af19b204a27
+    m_Address: Moustache
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accesories
+    - FaceFilter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea71ae052a3186146ad8ac57e86513ef
+    m_Address: CrazyEyes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accesories
+    - FaceFilter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ece0392033eb77e4e96dc9459efc9b09
+    m_Address: Mask 5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FaceFilter
+    - Mask
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f429d8d7aed17214a8b3257c3667413a
+    m_Address: Mask 3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FaceFilter
+    - Mask
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: aeaf73f5045170748aa41f85a0f7e3a5, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1dc9687e5d4abc44781bda63ce1a8c54, type: 2}

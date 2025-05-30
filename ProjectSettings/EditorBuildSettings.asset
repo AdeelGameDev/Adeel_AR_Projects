@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AR First Project/Scenes/AR_Template_Scene.unity
+    guid: 40f9576eb2b1e2f458efb804d0000732
+  - enabled: 1
+    path: Assets/AR Second Project/Scenes/Basic_Face_Filter.unity
+    guid: d0974ed496eca6d419a39299124dae5f
+  - enabled: 1
+    path: Assets/AR Third Project/Basic_Interactive_Scene.unity
+    guid: 5fa74a9e4a98cbc48a198b969e4bd66b
+  - enabled: 1
+    path: Assets/AR Forth Project/ARMarker.unity
+    guid: eee02e3f21b3df64890e998b1d531ef2
+  - enabled: 1
+    path: Assets/_ARPortal/AR_Portal.unity
+    guid: dbfea721c5106914c900ae9ab3255594
+  - enabled: 0
+    path: Assets/AR Second Project/Scenes/IceCream.unity
+    guid: 9d851e2169022bf4cb6a83fbf14af677
+  - enabled: 1
+    path: Assets/_Common/LoadingScene.unity
+    guid: 5a13421b3c52d2e49aedae16dc190139
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0465d33c6aee55f44b0237db8b0e0259,
+      type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: 0a3daa82a96a7f546bfc85398e2a48bd,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: c8ce0ace92ab4c444ae2f417203f213b,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3fd4fc0127790db4bae83f7b77da8d45,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0
